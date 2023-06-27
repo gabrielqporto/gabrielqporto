@@ -1,14 +1,20 @@
 ### Olá! Meu nome é Gabriel 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-quintino-porto-366690159)
+- 💻 Desenvolvedor Back-End
+- 👨‍💻 Me aprofundando em Java/Spring
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielqporto&show_icons=true&theme=dark)
 
-## Tecnologias que utilizo 💻
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" alt="Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="Spring" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 </div><br/>
 
-
-
+<div>
+  <a href="linkedin.com/in/gabriel-quintino-porto-366690159" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:gabrielqporto@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+</div>
