@@ -3,8 +3,6 @@
 - 💻 Desenvolvedor Back-End
 - 👨‍💻 Me aprofundando em Java/Spring
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielqporto&show_icons=true&theme=dark)
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Spring" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
